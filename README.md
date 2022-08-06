@@ -3,7 +3,7 @@ Repositório criado para o Desafio de Projeto da [DIO](https://web.dio.me/) refe
 
 <br />
 
-**Requerimentos do Objetivo:**
+**Requerimentos do Desafio:**
 
 <br />
 
